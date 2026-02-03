@@ -121,6 +121,46 @@ export const skills = [
       },
     ],
   },
+  {
+    title: "CS Fundamentals",
+    skills: [
+      {
+        name: "Data Structures & Algorithms",
+        image:
+          "https://cdn-icons-png.flaticon.com/512/2103/2103633.png",
+      },
+      {
+        name: "Low-Level Design (LLD)",
+        image:
+          "https://cdn-icons-png.flaticon.com/512/1055/1055687.png",
+      },
+      {
+        name: "OOP",
+        image:
+          "https://cdn-icons-png.flaticon.com/512/2166/2166823.png",
+      },
+      {
+        name: "DBMS",
+        image:
+          "https://cdn-icons-png.flaticon.com/512/4492/4492311.png",
+      },
+      {
+        name: "Computer Networks",
+        image:
+          "https://cdn-icons-png.flaticon.com/512/1239/1239682.png",
+      },
+      {
+        name: "Operating Systems",
+        image:
+          "https://cdn-icons-png.flaticon.com/512/518/518713.png",
+      },
+      {
+        name: "Software Engineering",
+        image:
+          "https://cdn-icons-png.flaticon.com/512/1087/1087927.png",
+      },
+    ],
+  },
 ];
 
 export const experiences = [

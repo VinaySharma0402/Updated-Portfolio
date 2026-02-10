@@ -1,27 +1,29 @@
-<img width="959" alt="portfolio" src="https://github.com/dhruvsaboo1805/Updated_Portfolio/assets/104023753/236d0d62-9ffe-4c59-ac57-5de2694caf84">
+# Ram Vinay Kumar - Portfolio
 
+### Live - https://updated-portfolio-two-steel.vercel.app/
 
-### Live - https://dhruv-saboo-portfolio.vercel.app/
-
-### Features - 
+### Features -
 
 - Modern Stack (React.js + Material UI)
 - Minimal Design
 - Easy To Browse
-- Easy To Customize your details With GUI
-- Blog Crud (Create, Read, Update, Delete blog with easy to use UI).
 - Dark Mode
-
+- Responsive Design
 
 ### Sections
 
-- Header
-- Skills
-- Education
 - About
-- Contact
+- Skills
 - Experience
+- Projects
+- Education
+- Contact
 
+### Tech Stack Used -
+- React.js
+- Material UI
+- Styled Components
+- Email Js
 
 ### How To Use
 
@@ -29,44 +31,15 @@
 - run `npm i`
 - `npm start`
 
+### How To Deploy -
 
-### How To Deploy - 
+- Login into Vercel with GitHub
+- Select this repo
+- Click Deploy
+- Vercel will automatically deploy your website
 
-- There are many ways to Deploy this repo.
-- here we are gonna use netlify
-- Login into vercel with github
-- after login select the forked repo or the repo you want to deploy
-- after selecting vercel will automatially deploy your website.
+### Connect With Me
 
-Quickes way to deploy this repo - 
-
-[![Deploy To Vercel](https://vercel.com/login)
-
-
-### How To Contribute - 
-
-I would be very happy to review your PRs and all the awesome things that you can improve on this portfolio.
-
-
-### Tech Stack Used - 
-- React.js
-- Material UI
-- Email Js
-
-
-### Thanks
-
-If you liked this portfolio template, don't forget to give it a ⭐.
-
-
-## Supporting
-Many hours of hard work have gone into this project. Your support will be very appreciated!
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/chetanverma)
-
-
-
-
-
-
-
+- [LinkedIn](https://www.linkedin.com/in/ram-vinay-kumar-2b67302b0/)
+- [GitHub](https://github.com/VinaySharma0402/)
+- [Portfolio](https://updated-portfolio-two-steel.vercel.app/)

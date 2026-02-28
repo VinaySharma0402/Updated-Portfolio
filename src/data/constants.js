@@ -329,6 +329,19 @@ export const projects = [
     github: "https://github.com/VinaySharma0402",
     webapp: "https://shree-aura.vercel.app/",
   },
+  {
+    id: 5,
+    title: "FitAI — Adaptive Fitness Intelligence Platform",
+    date: "Feb 2025",
+    description:
+      "An AI-powered fitness platform that creates personalized workout and nutrition plans, tracks progress with intelligent analytics, and adapts recommendations based on habits and body data. Features smart workout generator, adaptive diet planner, habit intelligence, and AI fitness coach.",
+    image:
+      "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&auto=format&fit=crop&q=60",
+    tags: ["React", "Node.js", "MongoDB", "Express", "JWT", "Chart.js", "AI"],
+    category: "web app",
+    github: "https://github.com/VinaySharma0402/Fitness-AI",
+    webapp: "https://github.com/VinaySharma0402/Fitness-AI",
+  },
 ];
 
 export const TimeLineData = [
